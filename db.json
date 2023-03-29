@@ -1,0 +1,2036 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gertrudis Tatterton",
+      "age": 18,
+      "email": "gtatterton0@ehow.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "Gail Newbatt",
+      "age": 53,
+      "email": "gnewbatt1@un.org",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "name": "Walliw Wilstead",
+      "age": 49,
+      "email": "wwilstead2@tripadvisor.com",
+      "password": "12345"
+    },
+    {
+      "id": 4,
+      "name": "Abran Proback",
+      "age": 29,
+      "email": "aproback3@theglobeandmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 5,
+      "name": "Roda Chappelow",
+      "age": 31,
+      "email": "rchappelow4@oaic.gov.au",
+      "password": "12345"
+    },
+    {
+      "id": 6,
+      "name": "Karney Wylie",
+      "age": 22,
+      "email": "kwylie5@miitbeian.gov.cn",
+      "password": "12345"
+    },
+    {
+      "id": 7,
+      "name": "Cammi Pimbley",
+      "age": 63,
+      "email": "cpimbley6@nyu.edu",
+      "password": "12345"
+    },
+    {
+      "id": 8,
+      "name": "Gavra Manning",
+      "age": 43,
+      "email": "gmanning7@lycos.com",
+      "password": "12345"
+    },
+    {
+      "id": 9,
+      "name": "Zachary Seward",
+      "age": 45,
+      "email": "zseward8@oracle.com",
+      "password": "12345"
+    },
+    {
+      "id": 10,
+      "name": "Chucho Norssister",
+      "age": 20,
+      "email": "cnorssister9@mayoclinic.com",
+      "password": "12345"
+    }
+  ],
+  "MenLanding": [
+    {
+      "heading": "Classy Newbies Are Here",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63ff1605adb8b819ee7b003c-1679550851.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "34"
+    },
+    {
+      "heading": "Perfect Daytime Hue",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6412cc1613cb3808215f9df5-1679644912.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "35"
+    },
+    {
+      "heading": "Turn Yourself Tropical",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6405ca4cf47b70189f28702b-1678420586.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "74"
+    },
+    {
+      "heading": "#WardrobeRefresh Anyone?",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_640f099f13cb38081b065998-1678966461.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "90"
+    },
+    {
+      "heading": "Stock Up On Regulars!",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_640ef670fd1d3c4563ab02ed-1678877547.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "66"
+    },
+    {
+      "heading": "Essential #BusinessCasual Styles",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_641193ab13cb38082b621783-1678874000.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "31"
+    },
+    {
+      "heading": "Easy To Recreate",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6412eec3fd1d3c4563b176f1-1679011048.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "16"
+    },
+    {
+      "heading": "Milind Soman Approved",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63feaf60adb8b819ee7a3e8c-1677763301.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "97"
+    },
+    {
+      "heading": "Look Cool Like Arjun Kapoor",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_64135b23cc8b5e082a6841a9-1678991181.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "7"
+    },
+    {
+      "heading": "#ClosetRestock Alert",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_64002debf3805708229a24d4-1678417769.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "14"
+    },
+    {
+      "heading": "Varun Dhawan Is Killin' It",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_640aa328adb8b86e22ae9d15-1678459354.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "76"
+    },
+    {
+      "heading": "Shoes And Sunglasses On Fleek",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63ff2df9f38057081b2fced4-1677878962.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "29"
+    },
+    {
+      "heading": "#GettingToGym Essentials",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_640ef2a8fd1d3c4563aafb62-1678877617.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "18"
+    },
+    {
+      "heading": "Akshay Kumar's #SubversiveSexy Look",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_640e4a14adb8b86e22b45745-1678661555.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "15"
+    },
+    {
+      "heading": "Shirts For Day-Outs!",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6411b6dcf3805708276ba2cb-1679398580.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "43"
+    },
+    {
+      "heading": "Steal His Style Here",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_640e5c57fd1d3c4563a9f6ef-1678665136.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "9"
+    },
+    {
+      "heading": "Square Watches Creating Buzz",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63fc973acc8b5e08238e2656-1679116325.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "9"
+    },
+    {
+      "heading": "Sleek And Smart",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_640a1ba8fd1d3c4563a40430-1678771658.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "30"
+    },
+    {
+      "heading": "Same Colour, Every Day",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6405d111cc8b5e20f3caf15d-1678420545.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "56"
+    },
+    {
+      "heading": "Classic Loafers, Classy You",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_641786eeadb8b83a9b8ea5a2-1679267249.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "17"
+    },
+    {
+      "heading": "Cool, Comforting Styles",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_640ed595b388b008210cbe7a-1678878486.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "31"
+    },
+    {
+      "heading": "Be Holiday-Ready",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6412d2a6cc8b5e082a6731d6-1679010962.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "60"
+    },
+    {
+      "heading": "Get Those #GroovyGraphics",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_640aa1eefd1d3c4563a47789-1679548435.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "47"
+    },
+    {
+      "heading": "Time To Update!",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_64135805cc8b5e082a683d78-1678990480.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "19"
+    },
+    {
+      "heading": "Steal Similar Picks Here",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6402107c13cb3838a7248424-1677880282.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "33"
+    },
+    {
+      "heading": "Star-Inspired Shoes",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_64020726b388b0329352d69d-1677879018.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "39"
+    },
+    {
+      "heading": "Recreate #AllBlack Styles",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6412e8bbadb8b86e22bbfce9-1679011219.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "44"
+    },
+    {
+      "heading": "Grey For The Day",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6412d95df47b70081f3ffb0a-1679010911.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "39"
+    },
+    {
+      "heading": "Forge Ahead The Trend",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6405bb1113cb381f2554efaf-1678419782.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "30"
+    },
+    {
+      "heading": "Check Out The Checks!",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63fe9d24adb8b819ee7a2575-1678418194.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "49"
+    },
+    {
+      "heading": "#ArtfulCamo | Print To Try",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_640eeff1f38057080fc19d7c-1679255100.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "30"
+    },
+    {
+      "heading": "Reset Your Closet",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6405c7b5fd1d3c45639e80b8-1678707024.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "44"
+    },
+    {
+      "heading": "Better In Basics",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6405c188fd1d3c45639e6ce5-1678419705.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "13"
+    },
+    {
+      "heading": "#EnhancedNeutrals To Bag",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_640f05d9b388b008210d252d-1678966516.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "30"
+    },
+    {
+      "heading": "Best-Of-All | Gymwear Tracks",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6405d509f47b70189f288bfe-1678420477.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "26"
+    },
+    {
+      "heading": "Out & About In Graphics",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_640aaae7adb8b86e22aea86f-1678421104.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "45"
+    },
+    {
+      "heading": "Siddhant Chaturvedi-Inspired",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63ff1446f47b70081248dab2-1677878749.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "34"
+    },
+    {
+      "heading": "Power Up Your Work Look",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_640e6f85adb8b86e22b46951-1678668111.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "13"
+    },
+    {
+      "heading": "Brown Is In Town",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6412e49e13cb3808215fe7fd-1678966645.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "53"
+    },
+    {
+      "heading": "All Day, Everyday Basics",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_640ed6e5f38057080fc170e9-1678877793.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "29"
+    },
+    {
+      "heading": "It's Here To Stay!",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_64002c07f47b70082e471885-1678417715.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "61"
+    },
+    {
+      "heading": "Effortlessly Stylish Picks",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_64119e47f47b70081995ebbe-1678877737.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "36"
+    },
+    {
+      "heading": "#StylingGame Ft. Ishaan Khattar",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63fefffef38057081b2f6273-1677878814.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "10"
+    },
+    {
+      "heading": "The Ultimate #SuitEssentials",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_641bd0e6f38057082adfcea0-1679545069.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "4"
+    },
+    {
+      "heading": "Optimistic Pastels Taking Over",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63fc86d5adb8b819ee773183-1678384927.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "9"
+    },
+    {
+      "heading": "Fresh #Kidult Socks",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_641199d3adb8b86e22b9a9f6-1678877352.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "4"
+    },
+    {
+      "heading": "All About Details",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63e22899f38057083e1da170-1677066547.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "80"
+    },
+    {
+      "heading": "Must-Have #WorkLeisure Tees",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63f7585af47b7008294a8224-1679117540.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "170"
+    },
+    {
+      "heading": "Bring A Desi Touch",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63e36b17f47b7008251df516-1678421503.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "7"
+    },
+    {
+      "heading": "#WearAtHome | New Drops",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63e223d313cb38083358dccc-1677065999.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "14"
+    },
+    {
+      "heading": "Update Your Collection",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63d5bef5fd1d3c5bbc64f26b-1679898565.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "83"
+    },
+    {
+      "heading": "Shoes To Elevate Your Style",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63e13fbb13cb38081d1f784d-1677048553.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "87"
+    },
+    {
+      "heading": "Tees, Shirts, Trousers And More",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63f4085aadb8b819ee6a858f-1677638545.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "51"
+    },
+    {
+      "heading": "#InstaWorthy Graphic Picks",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63f40c28fd1d3c6a4c6b5619-1679664485.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "62"
+    },
+    {
+      "heading": "Top It Off With A Tie",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63d583c2fd1d3c5bbc64d351-1675070926.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "30"
+    },
+    {
+      "heading": "Get Striped Styles Here",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63d5a94afd1d3c5bbc64e8ee-1675070831.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "26"
+    },
+    {
+      "heading": "New Arrivals | #PastelShirts",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63d77e46cc8b5e74b7f3ade9-1678422485.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "11"
+    },
+    {
+      "heading": "All About That V-Neck",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63d76a8ab388b071c56ed76f-1678422442.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "28"
+    },
+    {
+      "heading": "Stay Effortlessly Stylish",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63b7fd21b388b00822ba79e2-1674635779.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "57"
+    },
+    {
+      "heading": "New Boxers For You",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63be75bbf47b7008346d38c4-1674645401.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "12"
+    },
+    {
+      "heading": "New Arrivals | #ComfyBasics",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63bbc7a7cc8b5e082d248dcc-1673860725.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "163"
+    },
+    {
+      "heading": "Fresh Prints In The House",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63b6830ffd1d3c18522ec047-1673860871.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "112"
+    },
+    {
+      "heading": "New Year = New Wardrobe",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63b6818713cb38081c3a1717-1676964775.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "90"
+    },
+    {
+      "heading": "Get Timeless Pieces Here",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63ad289a13cb38082a949255-1676380227.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "97"
+    },
+    {
+      "heading": "Kartik Aaryan's #WinterWorthy Fit",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63c50abfb388b008277ac5f0-1678777745.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "51"
+    },
+    {
+      "heading": "Floral Kurta Sets Ft. Pulkit Samrat",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63c53e3613cb3808263a0d88-1674645976.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "24"
+    },
+    {
+      "heading": "Trending This Year",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63ad51d0f380570823be15db-1677047113.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "98"
+    },
+    {
+      "heading": "Meet Your #New Winter Buddies",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63b7f5f7b388b00822ba6872-1674635963.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "23"
+    },
+    {
+      "heading": "This. Just. IN.",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63b6820f13cb38081c3a1799-1673860988.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "36"
+    },
+    {
+      "heading": "#AtheleisurePicks 24\/7",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63be738bfd1d3c015d46c678-1679412846.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "60"
+    },
+    {
+      "heading": "Full On Fun Staples",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63be6ffff3805708246344f5-1677053493.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "34"
+    },
+    {
+      "heading": "TRENDING |  Tropdelic",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63be8631f47b7008346d529c-1675499722.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "68"
+    },
+    {
+      "heading": "Celebrity Story | #HeritageChecks",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63b6a282fd1d3c18522ef87b-1672991609.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "138"
+    },
+    {
+      "heading": "Look Dapper Like Sidharth",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63ad261eadb8b84ef73bb7d1-1678089566.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "46"
+    },
+    {
+      "heading": "Cop His Look Asap",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63c5015ab388b008277ab310-1676557768.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "40"
+    },
+    {
+      "heading": "It's Worth The Splurge",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63b67dcfcc8b5e084a7f49c4-1673861129.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "75"
+    },
+    {
+      "heading": "#CoolCasuals 101",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63b7f4e7cc8b5e081af99ca5-1679822437.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "50"
+    },
+    {
+      "heading": "Get Hrithik Roshan's Look",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63c0049bf47b70590fc6e1ff-1675071136.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "23"
+    },
+    {
+      "heading": "New Arrivals For New Szn",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63998de7b388b0083060781f-1679917837.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "42"
+    },
+    {
+      "heading": "Shirts, Trousers And Loafers FTW",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_639c34fbb388b008199d52c3-1672221518.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "44"
+    },
+    {
+      "heading": "Cop Vicky Kaushal's Style",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6391e82313cb38081df5f0a1-1670762499.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "97"
+    },
+    {
+      "heading": "Super Hot RN",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63a9391a13cb38081c75e4a1-1676284840.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "105"
+    },
+    {
+      "heading": "Picture-Perfect #PartyPicks",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63a5705ccc8b5e082e830c60-1672991705.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "84"
+    },
+    {
+      "heading": "Trending Shades Of The SZN",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6396e6c6f3805708176ff16d-1671621528.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "124"
+    },
+    {
+      "heading": "Chic #MaxiMinimalist Designs",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63a385e4fd1d3c31f5d6df1c-1671673389.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "86"
+    },
+    {
+      "heading": "Cop The Celeb Outfit",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6391b3d8b388b008226edd17-1676965656.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "135"
+    },
+    {
+      "heading": "Take Cues From Sidharth",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_639bc1e6adb8b82d0e054dbc-1671185495.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "54"
+    },
+    {
+      "heading": "Fiery Shade Alert",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6396d50bf47b70081b045858-1671621426.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "70"
+    },
+    {
+      "heading": "Go Crazy With Prints",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63a5712cadb8b82d0e11d5d1-1676877950.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "97"
+    },
+    {
+      "heading": "Trendy White Shoes FTW",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63a3b451adb8b82d0e0f4675-1672181755.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "98"
+    },
+    {
+      "heading": "Cop Siddhant Chaturvedi's Style",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_639b2acbadb8b82d0e04cf02-1671185960.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "79"
+    },
+    {
+      "heading": "Globally Trending Now",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_639c2039adb8b82d0e05d6b5-1672469120.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "62"
+    },
+    {
+      "heading": "Stay High On Trend",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63a390baadb8b82d0e0f299b-1671673435.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "122"
+    },
+    {
+      "heading": "New Arrivals|  #BeBasic",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63a05a95adb8b82d0e0b0eab-1672221725.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "90"
+    },
+    {
+      "heading": "Printed Resort Shirts + Solid Blazers",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63a2cba9f380570822119f66-1675502084.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "103"
+    },
+    {
+      "heading": "Perfect For Office And Beyond",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_639206f1adb8b82d0ef9cc5c-1670571093.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "33"
+    },
+    {
+      "heading": "Trending Now | #GeometricTrickery",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_639988cbcc8b5e082994ca8e-1672221275.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "59"
+    },
+    {
+      "heading": "New Arrivals | Innerwear",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_639c3254f47b70082b6b6004-1672221426.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "13"
+    },
+    {
+      "heading": "Let's Be Experimental",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63998ae8adb8b82d0e02a6f1-1672779573.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "57"
+    },
+    {
+      "heading": "Tank Tops Ft. Ishaan Khattar",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63ac0660adb8b84ef73a511f-1672221452.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "14"
+    },
+    {
+      "heading": "Current Colour Crush | #OatMilk",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_639c3a21b388b008199d5bbe-1675506095.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "46"
+    },
+    {
+      "heading": "Pair Them With Anything",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_639b2f50adb8b82d0e04d5d0-1675249703.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "73"
+    },
+    {
+      "heading": "Always Late For College?",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63a0578badb8b82d0e0b0828-1677046029.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "66"
+    },
+    {
+      "heading": "Recreate The Celeb Look",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63ac0218fd1d3c5cf644100c-1672979414.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "83"
+    },
+    {
+      "heading": "Up Your Style Game",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_638880dcf47b70082853593d-1675187716.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "20"
+    },
+    {
+      "heading": "#WorkLeisure | Polo Tees + Formal Trousers",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63886dd3adb8b82d0eeeae88-1670492558.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "30"
+    },
+    {
+      "heading": "All About #TheVNeck",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_638860c9f38057082e28def2-1670492608.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "50"
+    },
+    {
+      "heading": "Must-Haves Up For Grabs",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6388577713cb38081c1d0e88-1670492659.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "45"
+    },
+    {
+      "heading": "Celeb Edit | #MonotoneMagic",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63871fbafd1d3c31f5b56bdd-1673922972.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "47"
+    },
+    {
+      "heading": "Just The Trend To Score",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_636cc3c1f47b7008236ab068-1672787747.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "98"
+    },
+    {
+      "heading": "Explore Our Fall Palette",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_635f9f08b388b0083ab8387a-1667386459.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "193"
+    },
+    {
+      "heading": "Cop The Celeb Look",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_637f6412f380570821479269-1677574584.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "48"
+    },
+    {
+      "heading": "Black On Black Never Disappoints",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6368c04613cb380825102266-1670492875.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "118"
+    },
+    {
+      "heading": "Say Yes To Desi Picks",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_637df1fff47b7008239aa887-1669897397.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "42"
+    },
+    {
+      "heading": "Super Warm, Super Stylish",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_637dfe59f3805708206b0f21-1673738401.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "39"
+    },
+    {
+      "heading": "These Tees Are In Trend",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6368cba8b388b008142a2a84-1672786496.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "67"
+    },
+    {
+      "heading": "Autumn Hues Incoming",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_638468bbb388b06143692ed4-1679587105.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "111"
+    },
+    {
+      "heading": "Score New Boxers",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_636cde41f47b7008236af106-1668598067.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "21"
+    },
+    {
+      "heading": "New Arrivals To #LoungeIn",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63736d3113cb38080a054f3a-1669357152.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "52"
+    },
+    {
+      "heading": "Trend Story| Step On STRIPES",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63685f2eadb8b84b79d22a8b-1668075637.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "19"
+    },
+    {
+      "heading": "Apt For Daily Use",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_637e0495cc8b5e08167759c7-1669898559.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "63"
+    },
+    {
+      "heading": "Explore Some Quirky Picks",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6373684813cb38080a054482-1669357033.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "38"
+    },
+    {
+      "heading": "Blue On Blue | Shirts + Chinos",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6360e7ae13cb387dd9746e49-1672792574.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "60"
+    },
+    {
+      "heading": "Get Yours Now",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6374b6b2cc8b5e083775bf57-1672737608.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "59"
+    },
+    {
+      "heading": "Staples You Need Forever",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_636cdbe413cb38081a20a108-1668597947.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "53"
+    },
+    {
+      "heading": "Trend Story | Crimson Count",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6374c670adb8b81ff80d8201-1669358173.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "58"
+    },
+    {
+      "heading": "Trend Edit | Neutrals",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_637496cdb388b00833e9e06e-1672803467.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "25"
+    },
+    {
+      "heading": "Step Up Your Daily Look",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6373e112cc8b5e08270aeff2-1669357284.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "47"
+    },
+    {
+      "heading": "New Arrivals In Fall Shades",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_637e08c4cc8b5e08167760b9-1675362424.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "47"
+    },
+    {
+      "heading": "Get Your Wardrobe Staples",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63846bc7fd1d3c0db405d67b-1675501333.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "46"
+    },
+    {
+      "heading": "New Arrivals | #BetterBasics",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6374bdb4b388b00833ea27f4-1669358628.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "63"
+    },
+    {
+      "heading": "New Arrivals | Everyday Essentials",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63686128fd1d3c4961812514-1673256952.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "38"
+    },
+    {
+      "heading": "Groom Up Well",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_636e8fd2cc8b5e0832832867-1676636326.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "22"
+    },
+    {
+      "heading": "Tank Tops And Trousers FTW",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_638054eacc8b5e0837f64d8a-1670217968.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "37"
+    },
+    {
+      "heading": "Get The Picks Here",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_637f606afd1d3c48467d45dd-1669357181.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "55"
+    },
+    {
+      "heading": "Basking The Sun In Style",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6363a8eeb388b0082f65ef94-1672742851.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "34"
+    },
+    {
+      "heading": "Daily Wear Cool Tees",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6374adf7fd1d3c228b3042ce-1669357431.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "14"
+    },
+    {
+      "heading": "Add To Your Closet",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6374b90cf38057080ffc6ff0-1672227119.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "61"
+    },
+    {
+      "heading": "Latest Arrivals Just Landed",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_635f7c31f38057081a6c8ce0-1669151189.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "53"
+    },
+    {
+      "heading": "Hop On The Trend Train",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_636cc96c13cb38081a20721a-1672792023.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "37"
+    },
+    {
+      "heading": "Experiment With New Shades",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6374ca2aadb8b81ff80d85b9-1675504057.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "43"
+    },
+    {
+      "heading": "New Printed Desi Picks",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63466f1813cb38082ac7120b-1679544259.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "41"
+    },
+    {
+      "heading": "Desi Style Celeb Inspo",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_634e80cb13cb38081e8fc425-1666780055.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "43"
+    },
+    {
+      "heading": "Let's Get You Festive-ready",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6336cc20adb8b84218d9246b-1674288890.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "33"
+    },
+    {
+      "heading": "Look Dapper Like Vijay",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_633e4eb3fd1d3c3c1d6c2aec-1676208260.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "29"
+    },
+    {
+      "heading": "Desi Look For Celebrations",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6336a50e13cb38082322b916-1665746002.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "13"
+    },
+    {
+      "heading": "Tap Here For Fresh Formals",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_633be04aadb8b84218df72fd-1670142515.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "42"
+    },
+    {
+      "heading": "#NewDrops For Work",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_633a9a94f380570823e3989c-1665484361.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "24"
+    },
+    {
+      "heading": "Trend Story| #RedefinedUtility",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_635a56b6cc8b5e61529f72ef-1672783286.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "60"
+    },
+    {
+      "heading": "Forever Festive Staples",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6358f347adb8b86556e83ca7-1668579017.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "52"
+    },
+    {
+      "heading": "#BudgetBuys | Under 999",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63492943b388b0080ab06ee5-1678564819.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "10"
+    },
+    {
+      "heading": "Shop Printed Shirts, Tees And Jeans",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_634d2f99f38057081fa95227-1672742717.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "52"
+    },
+    {
+      "heading": "Neckties For A Dapper Look",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_635c70c6fd1d3c37070ae6ef-1674382629.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "15"
+    },
+    {
+      "heading": "Shirts To Score Today",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_634d317df38057081fa95443-1672792369.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "33"
+    },
+    {
+      "heading": "Shirts In Light Shades",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63490b6bfd1d3c3c1d7b3438-1676221579.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "46"
+    },
+    {
+      "heading": "We Know You Need 'em",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_633fca68cc8b5e0812cd56ab-1678274510.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "20"
+    },
+    {
+      "heading": "Business But Make It Casual",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6348f029f47b70081d1c7f31-1672797927.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "35"
+    },
+    {
+      "heading": "These New Arrivals Are Too Good",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6359ab1dfd1d3c5d34a36a05-1674197635.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "11"
+    },
+    {
+      "heading": "Play With Prints, Bro",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6358f159adb8b86556e83ab3-1666956401.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "23"
+    },
+    {
+      "heading": "#Plus Edit | Kurta Pajama Sets",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63324b06adb8b84103be1edf-1664876684.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "30"
+    },
+    {
+      "heading": "Get The Look Guys",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6315d7bff3805708210dfab8-1667481515.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "33"
+    },
+    {
+      "heading": "Comfy Tees Ft. Arjun Kapoor",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_632810b3adb8b84103af5995-1665641612.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "67"
+    },
+    {
+      "heading": "New And Wow",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_632d863ccc8b5e0816788304-1674494898.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "31"
+    },
+    {
+      "heading": "Festive Dhoti Kurta Sets",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_632d806eb388b00815b3ce49-1664355408.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "16"
+    },
+    {
+      "heading": "Shades To Adorn",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_62eb9258adb8b83c5f6f70f3-1659950504.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "31"
+    },
+    {
+      "heading": "Self-Care 101",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_62e7ac27b388b00809f7a5b1-1676393933.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "18"
+    },
+    {
+      "heading": "Trendy Picks Ft. Rajkummar",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_62ecdf20fd1d3c368db923ef-1678865156.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "17"
+    },
+    {
+      "heading": "Got Our Heart Throbbin'",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_630bbb60cc8b5e081ce2a6e8-1678420147.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "29"
+    },
+    {
+      "heading": "Kura Sets For Keeps",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_62da9507adb8b80cb3492192-1658816963.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "37"
+    },
+    {
+      "heading": "Tank Tops + Track Pants",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_62cd3e51fd1d3c0f35e997bf-1657618267.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "19"
+    },
+    {
+      "heading": "Karan Johar Sporting #Summertrend",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_629f06f2f47b7008225275f3-1659441505.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "25"
+    },
+    {
+      "heading": "Slip On And Step Out",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_62b577f3cc8b5e081fb6693e-1671350907.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "21"
+    },
+    {
+      "heading": "Cotton Picks | Plus Size",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_627c5eeeadb8b870236734fd-1652772833.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "32"
+    },
+    {
+      "heading": "Celeb Look To Copy RN",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_627a20ec13cb38081d2c3f2c-1674234300.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "27"
+    },
+    {
+      "heading": "Comfy And Sweat Resistant",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_627e4f45adb8b870236b0ba9-1678246999.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "33"
+    },
+    {
+      "heading": "#SummerEssentials",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_62963e4efd1d3c3e678d28e2-1666331345.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "12"
+    },
+    {
+      "heading": "#PocketFriendly Picks",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_62941688adb8b86bd8a9bd79-1665589394.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "10"
+    },
+    {
+      "heading": "Comfy Ankle Socks",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_61f1d25afd1d3c6daacd945c-1650068450.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/7.jpg",
+      "createdBy": "anujabofficial",
+      "followers": "672",
+      "like": "6"
+    },
+    {
+      "heading": "Desi Look, Done Right!",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_61256798fd1d3c1b33bfb907-1663591673.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "1K"
+    },
+    {
+      "heading": "Switch Up Your Style",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_612572cfadb8b808c5315f84-1651043397.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/mid_profile_5e0dd26e6f4a945d2dad2652-1577965834.png",
+      "createdBy": "kanika.crystal",
+      "followers": "31K",
+      "like": "895"
+    },
+    {
+      "heading": "Must Have Staples",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_5f563d8105ff6643194238c8-1630406676.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/3.jpg",
+      "createdBy": "garimapal1008",
+      "followers": "5K",
+      "like": "1K"
+    },
+    {
+      "heading": "Cushion It Up",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_641ddd30fd1d3c48d794aadb-1679679738.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "1"
+    },
+    {
+      "heading": "A Vibe Like Never Before",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_640f4009cc8b5e08168feaf9-1679506682.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569"
+    },
+    {
+      "heading": "Fresh Picks | #NaturalTextures",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_641b406f13cb38082351c9e5-1679508169.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "1"
+    },
+    {
+      "heading": "Keep Things Classy",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63b19123b388b0082aae708e-1678420594.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "1"
+    },
+    {
+      "heading": "Different Lights For Different Spaces",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63b17a65fd1d3c5cf64acf17-1676715966.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "2"
+    },
+    {
+      "heading": "Make It Simple, Make It Better",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63b18e3b13cb38082793b55a-1678420519.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "4"
+    },
+    {
+      "heading": "A Touch Of Luxe",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63b17731adb8b84ef74119a4-1677565031.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "8"
+    },
+    {
+      "heading": "Minimalist Lights Are Here",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63babb03cc8b5e08298fe1e6-1676736688.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "4"
+    },
+    {
+      "heading": "Add Your Personal Touch",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63d006bdb388b008204e7312-1676007001.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "8"
+    },
+    {
+      "heading": "Try A New Aesthetic",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63bc42cdf47b70082136a4eb-1678210611.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "3"
+    },
+    {
+      "heading": "Lovely Wooden Accents",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63babb4acc8b5e08298fe295-1678419830.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "12"
+    },
+    {
+      "heading": "Beverage Essentials",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63bf1aa6fd1d3c015d47ca6f-1678419997.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "8"
+    },
+    {
+      "heading": "New Aesthetic Alert",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63a89c9f13cb380816280a60-1671995618.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "11"
+    },
+    {
+      "heading": "New Year, New Dinnerware",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_639f61ecb388b00811e6da96-1671390811.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "18"
+    },
+    {
+      "heading": "For Your #CozyCorner",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_639f55d3f47b700820eb5b72-1671386944.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "10"
+    },
+    {
+      "heading": "Motivate Them Now",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_639f5cc3f47b700820eb5e6d-1676094458.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "10"
+    },
+    {
+      "heading": "Perfect For Nursery's Walls",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63860c44fd1d3c31f5b44844-1669730091.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "1"
+    },
+    {
+      "heading": "Winter Season Essentials",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63a89fd2adb8b82d0e15a216-1677467877.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "4"
+    },
+    {
+      "heading": "New Arrivals Alert",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6388ead9adb8b82d0eef5bb1-1669917732.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "2"
+    },
+    {
+      "heading": "Get Creative With Cushions And Covers",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6388ecbdf47b70082854037f-1678906027.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "4"
+    },
+    {
+      "heading": "Shades Of Brown",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6388ef1dfd1d3c31f5b7d534-1677291439.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "5"
+    },
+    {
+      "heading": "Holiday Vibes Special",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63921d44b388b008226f6c6d-1670522398.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "7"
+    },
+    {
+      "heading": "Deck Up Your Space",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_63921e9c13cb38081df62b69-1670522430.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "9"
+    },
+    {
+      "heading": "New Obsession | Fringed Fantasy",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6390e23efd1d3c31f5c0c1e1-1670440238.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "8"
+    },
+    {
+      "heading": "New Arrivals Found",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_638f87c2f38057081670b7a4-1671389431.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "5"
+    },
+    {
+      "heading": "Keep It Organized",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_638e3c63fd1d3c31f5be11f9-1670266510.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "5"
+    },
+    {
+      "heading": "Look What Just Arrived",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6368e201f47b7008124d45fb-1667896117.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/26.jpg",
+      "createdBy": "ankita",
+      "followers": "3K",
+      "like": "2"
+    },
+    {
+      "heading": "Classy Monochrome Wall Decals",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_636cac54adb8b81ff803de32-1668068072.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/15.jpg",
+      "createdBy": "Ankita Manot",
+      "followers": "305",
+      "like": "10"
+    },
+    {
+      "heading": "Make Your Evenings Better",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_636cc4fcfd1d3c228b26984b-1668173720.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/26.jpg",
+      "createdBy": "ankita",
+      "followers": "3K",
+      "like": "4"
+    },
+    {
+      "heading": "Best Of Religious Wall Decals",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_636238c0f47b700819d60baf-1667385333.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/15.jpg",
+      "createdBy": "Ankita Manot",
+      "followers": "305",
+      "like": "10"
+    },
+    {
+      "heading": "Multipurpose Pebbles Are Here",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63804d3df47b700827a4361f-1669353031.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "9"
+    },
+    {
+      "heading": "Surprise They'll Love",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6364afb4cc8b5e0831d3c391-1667577124.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/26.jpg",
+      "createdBy": "ankita",
+      "followers": "3K",
+      "like": "2"
+    },
+    {
+      "heading": "Cold Weather Special",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_637f99bbfd1d3c48467d9a3c-1669661123.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "3"
+    },
+    {
+      "heading": "New Home Essentials Found",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_63804ecdb388b00834f3ed4c-1669353416.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "4"
+    },
+    {
+      "heading": "Perfect For Family Gatherings",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6371dbdcf380570817bca8df-1668406886.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/26.jpg",
+      "createdBy": "ankita",
+      "followers": "3K",
+      "like": "1"
+    },
+    {
+      "heading": "Cartoon Decals To Make'em Smile",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_636a17adcc8b5e082caa0863-1667897953.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/15.jpg",
+      "createdBy": "Ankita Manot",
+      "followers": "305",
+      "like": "2"
+    },
+    {
+      "heading": "Decorative Torans For Entry Gate",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_635e2f26cc8b5e08129abe32-1667117168.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/15.jpg",
+      "createdBy": "Ankita Manot",
+      "followers": "305",
+      "like": "5"
+    },
+    {
+      "heading": "Best Of Living Room Carpets",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_636b81aecc8b5e081b2eeed0-1667991751.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/15.jpg",
+      "createdBy": "Ankita Manot",
+      "followers": "305",
+      "like": "2"
+    },
+    {
+      "heading": "For Lazy Winter Nights",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_6383935213cb3808289febf6-1671012544.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "13"
+    },
+    {
+      "heading": "Cool Mugs For Coffee Lovers",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6367b6def38057080b64a258-1667743001.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/15.jpg",
+      "createdBy": "Ankita Manot",
+      "followers": "305",
+      "like": "6"
+    },
+    {
+      "heading": "Light Up Every Corner | Hanging Lights",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6374ec5713cb380828bd084e-1669306752.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5e576e5ffd1d3c6973316fc7-1652968665.png",
+      "createdBy": "createstory",
+      "followers": "569"
+    },
+    {
+      "heading": "In Focus | Fabric Crafted Essentials",
+      "landingImage": "https:\/\/img0.junaroad.com\/stories\/story_p_63838db113cb3808289fe771-1678419608.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/assets\/images\/sprite\/icon-192.png",
+      "createdBy": "createstory",
+      "followers": "569",
+      "like": "2"
+    },
+    {
+      "heading": "So Fluffy, You Can't Resist",
+      "landingImage": "https:\/\/img2.junaroad.com\/stories\/story_p_6367d10413cb380818a1da2e-1668175104.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/assets\/images\/sprite\/icon-192.png",
+      "createdBy": "ankita",
+      "followers": "3K",
+      "like": "10"
+    },
+    {
+      "heading": "Lunch Boxes You'll Love",
+      "landingImage": "https:\/\/img3.junaroad.com\/stories\/story_p_6360c20ffd1d3c37070fb3f4-1667285707.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/assets\/images\/sprite\/icon-192.png",
+      "createdBy": "Ankita Manot",
+      "followers": "305",
+      "like": "5"
+    }
+  ],
+  "WomenLanding": [
+    {
+      "heading": "#FreshFav Additions",
+      "image": "https:\/\/img0.junaroad.com\/stories\/story_p_641adf0cf3805708287887f4-1679484564.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "21"
+    },
+    {
+      "heading": "#HottestOfTheSeason",
+      "image": "https:\/\/img2.junaroad.com\/stories\/story_p_641c3ab6cc8b5e65a7ca12d8-1679823159.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "38"
+    },
+    {
+      "heading": "Get Set To Be Obsessed",
+      "image": "https:\/\/img2.junaroad.com\/stories\/story_p_641ae288cc8b5e0814914c24-1679552254.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "32"
+    },
+    {
+      "heading": "Bag These Mega Wedding #ColourTrends",
+      "image": "https:\/\/img0.junaroad.com\/stories\/story_p_6413011af47b70081f405cc9-1679545563.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "46"
+    },
+    {
+      "heading": "#BridalTrousseau Must-Haves",
+      "image": "https:\/\/img2.junaroad.com\/stories\/story_p_641189ecf47b70081995ba42-1679198847.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "47"
+    },
+    {
+      "heading": "You're Doing It Right",
+      "image": "https:\/\/img3.junaroad.com\/stories\/story_p_641483b9cc8b5e082a32d050-1679135097.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "38"
+    },
+    {
+      "heading": "Pooja Hegde Nailing It!",
+      "image": "https:\/\/img0.junaroad.com\/stories\/story_p_641060cfb388b0083538b0f9-1678875193.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "75"
+    },
+    {
+      "heading": "Explore #Fresh Styles!",
+      "image": "https:\/\/img2.junaroad.com\/stories\/story_p_641198a3b388b008214a0665-1678875370.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "33"
+    },
+    {
+      "heading": "Purist Blue Gettin' Popular!",
+      "image": "https:\/\/img3.junaroad.com\/stories\/story_p_6411e1cff3805708276bffcd-1678983930.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "72"
+    },
+    {
+      "heading": "OMG They're So Pretty",
+      "image": "https:\/\/img0.junaroad.com\/stories\/story_p_640aec9ffd1d3c4563a4ff38-1678447640.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "116"
+    },
+    {
+      "heading": "We've Found The Best",
+      "image": "https:\/\/img2.junaroad.com\/stories\/story_p_6409afb4adb8b86e22ad5c7e-1678360657.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "38"
+    },
+    {
+      "heading": "This Is #CelebApproved",
+      "image": "https:\/\/img3.junaroad.com\/stories\/story_p_6403173bcc8b5e0819898f81-1679932819.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "164"
+    },
+    {
+      "heading": "Our #Freshbies Are LIT",
+      "image": "https:\/\/img0.junaroad.com\/stories\/story_p_640070d8cc8b5e082b767460-1678370438.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "70"
+    },
+    {
+      "heading": "New Month = New Kurtas",
+      "image": "https:\/\/img2.junaroad.com\/stories\/story_p_6405b41d13cb381f2554e3a0-1678354806.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "75"
+    },
+    {
+      "heading": "Attention Ladies",
+      "image": "https:\/\/img3.junaroad.com\/stories\/story_p_63fc8e2213cb38081bc52f23-1678868530.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "55"
+    },
+    {
+      "heading": "V-Neck Edit | Straight Kurtas",
+      "image": "https:\/\/img0.junaroad.com\/stories\/story_p_62bdab9af38057081de56793-1679674653.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/profile_5b55d97486934e71890be578-1597052991.png",
+      "createdBy": "POOJA",
+      "followers": "5K",
+      "like": "1"
+    },
+    {
+      "heading": "Pink Please | Kurtis",
+      "image": "https:\/\/img2.junaroad.com\/stories\/story_p_62c46252b388b0082b349be1-1666491040.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/profile_5795f141f80c246ada8dc53c-1630860785.png",
+      "createdBy": "krunal",
+      "followers": "7K",
+      "like": "4"
+    },
+    {
+      "heading": "Trendy Fusion Sets",
+      "image": "https:\/\/img3.junaroad.com\/stories\/story_p_62c3b5f813cb38081d665d9a-1666763635.jpeg",
+      "createdByImage": "https:\/\/img0.junaroad.com\/user_profile\/profile_59127c6da7dae86b8216afaa-1678519977.png",
+      "createdBy": "Divya N",
+      "followers": "2K",
+      "like": "1"
+    },
+    {
+      "heading": "So Light, So Fun",
+      "image": "https:\/\/img0.junaroad.com\/stories\/story_p_63f87ca3b388b008213444c4-1677494695.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "27"
+    },
+    {
+      "heading": "Here's What We Know",
+      "image": "https:\/\/img2.junaroad.com\/stories\/story_p_63f87e6a13cb380814dd97a0-1678510433.jpeg",
+      "createdByImage": "https:\/\/img1.junaroad.com\/user_profile\/32.jpg",
+      "createdBy": "Shivangini",
+      "followers": "30K",
+      "like": "22"
+    }
+  ]
+}
